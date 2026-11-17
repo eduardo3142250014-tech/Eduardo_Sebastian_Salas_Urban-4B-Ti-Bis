@@ -1,0 +1,4 @@
+Cambiarlo a 3 archivos con los nombres:
+inventario
+productos
+main
